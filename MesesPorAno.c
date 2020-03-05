@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*Linguagem de alto nivel -> blueprint(ProgramaÁao em blocls)*/
+/*Linguagem de alto nivel -> blueprint(Programa√ßao em blocls)*/
 int a = 0;
 int main() {
-	//1. Declarar as vari·veis
+	//1. Declarar as vari√°veis
 	int anos;
 	int meses;
 	
@@ -11,8 +11,8 @@ int main() {
 	printf("Digite os anos:\n");
 	scanf("%d",&anos);
 	// \n quebra para linha de baixo
-	// o & indica a memÛria onde o valor ser· armazenado
-	//&anos È um endereÁo de mÈmoria, onde armazena o valor
+	// o & indica a mem√≥ria onde o valor ser√° armazenado
+	//&anos √© um endere√ßo de m√©moria, onde armazena o valor
 	//scanf precisa de 2 argumentos
 	//"%d" string, place holder do tipo inteiro
 	
