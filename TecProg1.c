@@ -19,7 +19,8 @@ int main() {
 	printf("%d \n", anos);
 	
 	//3. Fazer o calculo
-	printf("%d", anos*12);
+	meses = anos * 12;
+	printf("%d", meses);
 	
 
 	return 0;
